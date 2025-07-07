@@ -2,11 +2,11 @@
 
 I'm a full-stack developer focused on building clean, scalable web apps — especially in the sports, e-commerce, and AI spaces.
 
-- 🧠 I started from zero — no prior experience, just curiosity and commitment. Now I’m on my way to becoming a **code warrior**
+-  I started from zero — no prior experience, just curiosity and commitment. Now I’m on my way to becoming a **code warrior**
 - ✅ Earned my **Professional Full-Stack Developer Certification**
 - 🛠️ Most of my work is built with **Python**, **Django**, and **Flask** — my go-to stack for backend development
-- 🔭 Currently building: AI-powered betting tools, Stripe-integrated platforms, and interactive sports dashboards
-- 🌱 Learning: **Next.js**, **Stripe CLI workflows**, and advanced React patterns
+-  Currently building: AI-powered betting tools, Stripe-integrated platforms, and interactive sports dashboards
+-  Learning: **Next.js**, **Stripe CLI workflows**, and advanced React patterns
 - 🤝 Open to collaborating on: Full-stack apps, APIs, and anything with real-world impact
 - 📫 Reach me at: **lgg6bentley@gmail.com**
 - 🎬 Fun fact: *Predator* is still undefeated in my movie rankings
