@@ -27,10 +27,9 @@ I'm a full-stack developer focused on building clean, scalable web apps — espe
 
 ### 📌 Featured Projects
 
-- **[MLB Betsbuilder](https://github.com/lgg6bentley/mlb-betsbuilder)** – AI-generated parlays, real-time odds, Stripe-powered premium access
-- **[UFC Fight Hub](https://github.com/lgg6bentley/ufc-fight-hub)** – Django + Flask app for UFC fight data and analysis
-- **[Fight Predictor AI](https://github.com/lgg6bentley/fight-predictor-ai)** – ML-powered fight outcome predictor with interactive UI
-
+- **[MLB Betsbuilder](https://github.com/lgg6bentley/mlb-betsbuilder)** – AI-powered parlay generator with live MLB odds and Stripe-integrated premium access  
+- **[UFC Fight Hub](https://github.com/lgg6bentley/ufc-fight-hub)** – Full-stack platform for UFC fight data, analytics, and prediction engine built with Django and Flask  
+- **[Job Tracker](https://github.com/lgg6bentley/job-tracker-react-firebase)** – React + Firebase app to manage job applications with real-time updates and sleek dashboard
 ---
 
 > “Started from zero. Now I’m building like I’ve been here.”  
