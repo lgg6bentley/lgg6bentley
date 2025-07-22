@@ -27,10 +27,6 @@ I'm a full-stack developer focused on building clean, scalable web apps — espe
 
 ### 📌 Featured Projects
 
-### 📌 Featured Projects
-
-### 📌 Featured Projects
-
 - **[Job Tracker](https://github.com/lgg6bentley/job-tracker-react-firebase)** – React + Firebase app to manage job applications with real-time updates and sleek dashboard
 - **[The Big Slice Restaurant Hub](https://github.com/lgg6bentley/the-big-slice-restaurant-hub)** – A Django REST API with a dynamic JavaScript frontend for a restaurant menu, featuring static file management and dynamic content display.
 - **[UFC Fight Hub](https://github.com/lgg6bentley/ufc-fight-hub)** – Full-stack platform for UFC fight data, analytics, and prediction engine built with Django and Flask
