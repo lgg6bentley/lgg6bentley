@@ -20,7 +20,7 @@
 | :--- | :--- |
 | **PERSONNEL_FILE** | [ACCESS LINKEDIN PROFILE](https://www.linkedin.com/in/bentley-bond-89b39a375/) |
 | **COMMUNICATION** | [INITIATE CONTACT](mailto:lgg6bentley@gmail.com) |
-| **PORTFOLIO** | [EXECUTE_ACCESS_PROTOCOL](https://yourportfolio.com) |
+| **PORTFOLIO** | [EXECUTE_ACCESS_PROTOCOL](https://bentley-portfolio.vercel.app/) |
 
 ---
 
