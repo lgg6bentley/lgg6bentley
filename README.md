@@ -16,11 +16,12 @@
 
 ### 🔗 EXTERNAL_COMMS_PORTAL
 
-| Platform | Link Command |
-| :--- | :--- |
+| Platform         | Link Command                                                                 |
+| :--------------- | :--------------------------------------------------------------------------- |
 | **PERSONNEL_FILE** | [ACCESS LINKEDIN PROFILE](https://www.linkedin.com/in/bentley-bond-89b39a375/) |
-| **COMMUNICATION** | [INITIATE CONTACT](mailto:lgg6bentley@gmail.com) |
-| **PORTFOLIO** | [EXECUTE_ACCESS_PROTOCOL](https://bentley-portfolio.vercel.app/) |
+| **COMMUNICATION**  | [INITIATE CONTACT](mailto:lgg6bentley@gmail.com)                             |
+| **PORTFOLIO**      | [EXECUTE_ACCESS_PROTOCOL](https://bentley-portfolio.vercel.app/)             |
+| **CIVICCORE_RELIC**| [DEPLOYED GITHUB PAGE](https://lgg6bentley.github.io/civic-core/)            |
 
 ---
 
