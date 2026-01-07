@@ -19,7 +19,7 @@
 | :--------------- | :--------------------------------------------------------------------------- |
 | **PERSONNEL_FILE** | [ACCESS LINKEDIN PROFILE](https://www.linkedin.com/in/bentley-bond-89b39a375/) |
 | **COMMUNICATION**  | [INITIATE CONTACT](https://bentley-portfolio.vercel.app/contact)  
-| **STANDARD PORTFOLIO**      | [EXECUTE_ACCESS_PROTOCOL](/./)
+| **STANDARD PORTFOLIO**      | [EXECUTE_ACCESS_PROTOCOL](.)
 | **PERSONAL PORTFOLIO**      | [EXECUTE_ACCESS_PROTOCOL](https://bentley-portfolio.vercel.app/)             |
 | **CIVICCORE_RELIC**| [DEPLOYED GITHUB PAGE](https://lgg6bentley.github.io/civic-core/)            |
 
