@@ -9,8 +9,7 @@
 
 | Parameter | Value | Status |
 | :--- | :--- | :--- |
-| **UNIT_ROLE** | Architect / Full-Stack Developer | **OPERATIONAL** |
-| **PRIMARY_FOCUS** | Encoding Trust, Scaling Data Streams, Founder Resonance | **ACTIVE** |
+| **UNIT_ROLE** | Full-Stack Developer | **OPERATIONAL** |
 | **CERTIFICATION** | Professional Full-Stack Developer (Earned) | **VERIFIED** |
 | **FUN_FACT** | **WARNING**: **Predator** is still critically undervalued in cinematic rankings. | **CRITICAL_BIAS** |
 
