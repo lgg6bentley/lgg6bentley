@@ -1,57 +1,62 @@
-# // BENTLEY_GITHUB // LOG_01
+# Bentley Bond | Full-Stack & Crypto Developer
 
+**Specializing in Secure Payment Integration, AI Automation, and Financial Data Integrity.**
 
-> **INITIATING_LEGACY_PROTOCOL:** This system is designed for **clean, scalable, full-stack deployment** in high-value sectors (Crypto, Full stack developemnt, AI).
-
----
-
-## 💾 UNIT_IDENTIFIER: BENTLEY_01
-
-| Parameter | Value | Status |
-| :--- | :--- | :--- |
-| **UNIT_ROLE** | Full-Stack Developer | **OPERATIONAL** |
-| **CERTIFICATION** | Professional Full-Stack Developer (Earned) | **VERIFIED** |
-| **FUN_FACT** | **WARNING**: **Predator** is still critically undervalued in cinematic rankings. | **CRITICAL_BIAS** |
-
-### 🔗 EXTERNAL_COMMS_PORTAL
-
-| Platform         | Link Command                                                                 |
-| :--------------- | :--------------------------------------------------------------------------- |
-| **PERSONNEL_FILE** | [ACCESS LINKEDIN PROFILE](https://www.linkedin.com/in/bentley-bond-89b39a375/) |
-| **COMMUNICATION**  | [INITIATE CONTACT](https://bentley-portfolio.vercel.app/contact)  
-| **STANDARD PORTFOLIO**      | [EXECUTE_ACCESS_PROTOCOL](.)
-| **PERSONAL PORTFOLIO**      | [EXECUTE_ACCESS_PROTOCOL](https://bentley-portfolio.vercel.app/)             |
-| **CIVICCORE_RELIC**| [DEPLOYED GITHUB PAGE](https://lgg6bentley.github.io/civic-core/)            |
+I engineer high-performance web applications for the **Crypto, SaaS, and Fintech** sectors. My focus is on building secure, scalable, and audit-ready systems that utilize modern **TypeScript/Python** stacks and decentralized data principles.
 
 ---
 
-## ⚙️ MODULES_CERTIFIED // CORE_PROTOCOL_STACK
+### 🛠 Professional Core
+* **Fintech & Payments:** Architecting custom **Stripe** workflows, subscription logic, and secure checkout pipelines.
+* **Crypto-Integrity:** Implementing append-only ledgers, relational data modeling, and audit-trail persistence.
+* **Full-Stack Engineering:** Expert use of **Next.js (App Router)**, React Server Components, and **FastAPI**.
+* **Systems & DevOps:** Asynchronous task queuing with Redis, Containerization with Docker, and ACID-compliant PostgreSQL schemas.
 
-This section details the primary technical modules utilized by this system for development, data management, and frontend rendering.
+### 🔗 Connect & Collaborate
+- **Portfolio:** [bentley-portfolio.vercel.app](https://bentley-portfolio.vercel.app/)
+- **LinkedIn:** [bentley-bond-89b39a375](https://www.linkedin.com/in/bentley-bond-89b39a375/)
+- **Email:** [lgg6bentley@gmail.com](mailto:lgg6bentley@gmail.com)
 
-> **Current Operational Priority:** Next.js, Stripe CLI workflows, Advanced React patterns, and real-world API integration.
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+### ⚙️ Technical Stack
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ---
 
-## ACCESS_LOG // CORE RELICS
+### 📂 Production Deploys & Case Studies
 
-### [01] MindRelic  
-**Status:** Operational  
-Cognitive simulation relic designed for distraction-based memory play and symbolic pattern recognition.
+#### **[LedgerLite](https://github.com/lgg6bentley/LedgerLite) — High-Integrity Financial Tracker**
+A crypto-inspired personal finance engine architected on **append-only ledger principles** for maximum auditability.
+* **Tech:** Next.js, Prisma, PostgreSQL.
+* **Focus:** Data persistence, relational schema design, and financial transparency.
 
-### [02] ArcanaForge  
-**Status:** Alert  
-Card-based universe builder with lore encoding, trait fusion, and founder-grade ritual mechanics.
+#### **[OpsPilot](https://github.com/lgg6bentley/OpsPilot) — AI Workflow Automation**
+Scalable engine for multi-step task processing and LLM orchestration.
+* **Tech:** FastAPI, Redis, OpenAI API, Next.js.
+* **Focus:** **Asynchronous task queuing** and non-blocking I/O for high-compute AI operations.
 
-### [03] UFC AI Bet Predictor [Model-V3]  
-**Status:** Operational  
-AI-powered fight outcome predictor trained on UFC stats, fighter styles, and momentum signals.
+#### **[UFC AI Predictor](https://github.com/lgg6bentley/UFC-AI-Predictor) — Predictive Analytics**
+Advanced model-driven dashboard for outcome probability analysis based on historical fighter signals.
+* **Tech:** Flask, SQLite, Python Data Processing.
+* **Focus:** Statistical analysis and real-time data rendering.
+
+---
+
+### 💼 Freelance Services
+* **Full-Stack MVPs:** Rapid development from concept to secure deployment.
+* **Payment Integration:** Specialized Stripe API implementation for recurring billing and marketplace logic.
+* **AI Automation:** Custom LLM pipelines to streamline business operations and data analysis.
+
+---
+*Currently accepting select freelance contracts and technical partnerships.*
