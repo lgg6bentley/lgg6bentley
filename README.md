@@ -1,5 +1,11 @@
 # Bentley Bond | Full-Stack & Crypto Developer
 
+<p align="left">
+  <a href="mailto:lgg6bentley@gmail.com">
+    <img src="https://img.shields.io/badge/HIRE_ME-Direct_Inquiry-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me"/>
+  </a>
+</p>
+
 **Specializing in Secure Payment Integration, AI Automation, and Financial Data Integrity.**
 
 I engineer high-performance web applications for the **Crypto, SaaS, and Fintech** sectors. My focus is on building secure, scalable, and audit-ready systems that utilize modern **TypeScript/Python** stacks and decentralized data principles.
@@ -54,7 +60,7 @@ Advanced model-driven dashboard for outcome probability analysis based on histor
 ---
 
 ### 💼 Freelance Services
-* **Full-Stack MVPs:** Rapid development from concept to secure deployment.
+* **Full-Stack MVPs:** Rapid development from concept to secure deployment (Vercel/Docker).
 * **Payment Integration:** Specialized Stripe API implementation for recurring billing and marketplace logic.
 * **AI Automation:** Custom LLM pipelines to streamline business operations and data analysis.
 
