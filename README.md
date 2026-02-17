@@ -1,22 +1,25 @@
-# Bentley Bond | Full-Stack & Crypto Developer
+# Bentley Bond | Full-Stack Product Engineer
 
 <p align="left">
   <a href="mailto:lgg6bentley@gmail.com">
-    <img src="https://img.shields.io/badge/HIRE_ME-Direct_Inquiry-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me"/>
+    <img src="https://img.shields.io/badge/HIRE_ME-Direct_Inquiry-0047FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bentley-bond-89b39a375/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-**Specializing in Secure Payment Integration, AI Automation, and Financial Data Integrity.**
+**Specializing in Secure Payment Integration, AI Orchestration, and High-Performance SEO Architecture.**
 
-I engineer high-performance web applications for the **Crypto, SaaS, and Fintech** sectors. My focus is on building secure, scalable, and audit-ready systems that utilize modern **TypeScript/Python** stacks and decentralized data principles.
+I engineer production-grade web applications for the **Fintech, Legal, and SaaS** sectors. My focus is on building "high-trust" systems that prioritize **Data Integrity**, sub-second performance, and scalable infrastructure using modern **TypeScript/Python** stacks.
 
 ---
 
 ### 🛠 Professional Core
-* **Fintech & Payments:** Architecting custom **Stripe** workflows, subscription logic, and secure checkout pipelines.
-* **Crypto-Integrity:** Implementing append-only ledgers, relational data modeling, and audit-trail persistence.
-* **Full-Stack Engineering:** Expert use of **Next.js (App Router)**, React Server Components, and **FastAPI**.
-* **Systems & DevOps:** Asynchronous task queuing with Redis, Containerization with Docker, and ACID-compliant PostgreSQL schemas.
+* **Fintech & Payments:** Architecting custom **Stripe** workflows, subscription lifecycle management, and secure checkout logic.
+* **AI Orchestration:** Asynchronous task queuing with Redis and custom LLM pipelines for multi-step business automation.
+* **High-Performance SEO:** Engineering **Next.js** platforms optimized for Core Web Vitals, metadata orchestration, and top-tier Google indexing.
+* **Systems Architecture:** Relational data modeling with **PostgreSQL**, ACID-compliant schema design, and Dockerized deployments.
 
 ### 🔗 Connect & Collaborate
 - **Portfolio:** [bentley-portfolio.vercel.app](https://bentley-portfolio.vercel.app/)
@@ -42,27 +45,27 @@ I engineer high-performance web applications for the **Crypto, SaaS, and Fintech
 
 ### 📂 Production Deploys & Case Studies
 
-#### **[LedgerLite](https://github.com/lgg6bentley/LedgerLite) — High-Integrity Financial Tracker**
-A crypto-inspired personal finance engine architected on **append-only ledger principles** for maximum auditability.
-* **Tech:** Next.js, Prisma, PostgreSQL.
-* **Focus:** Data persistence, relational schema design, and financial transparency.
+#### **[Civic Core](https://github.com/lgg6bentley/civic-core) — Enterprise Legal Framework**
+A high-conversion, SEO-optimized architecture designed for professional service firms and legal practices.
+* **Tech:** Next.js (App Router), TypeScript, Tailwind CSS.
+* **Focus:** Dynamic SEO orchestration, high-performance LCP scores, and secure lead acquisition.
 
 #### **[OpsPilot](https://github.com/lgg6bentley/OpsPilot) — AI Workflow Automation**
 Scalable engine for multi-step task processing and LLM orchestration.
 * **Tech:** FastAPI, Redis, OpenAI API, Next.js.
-* **Focus:** **Asynchronous task queuing** and non-blocking I/O for high-compute AI operations.
+* **Focus:** **Asynchronous task queuing** and non-blocking I/O for high-compute operations.
 
-#### **[UFC AI Predictor](https://github.com/lgg6bentley/UFC-AI-Predictor) — Predictive Analytics**
-Advanced model-driven dashboard for outcome probability analysis based on historical fighter signals.
-* **Tech:** Flask, SQLite, Python Data Processing.
-* **Focus:** Statistical analysis and real-time data rendering.
+#### **[LedgerLite](https://github.com/lgg6bentley/LedgerLite) — High-Integrity Financial Tracker**
+A crypto-inspired personal finance engine architected on **append-only ledger principles**.
+* **Tech:** Next.js, Prisma, PostgreSQL.
+* **Focus:** Data persistence, relational schema design, and financial transparency.
 
 ---
 
 ### 💼 Freelance Services
 * **Full-Stack MVPs:** Rapid development from concept to secure deployment (Vercel/Docker).
 * **Payment Integration:** Specialized Stripe API implementation for recurring billing and marketplace logic.
-* **AI Automation:** Custom LLM pipelines to streamline business operations and data analysis.
+* **Legal/SaaS SEO:** Performance-first web builds designed to rank and convert professional leads.
 
 ---
 *Currently accepting select freelance contracts and technical partnerships.*
