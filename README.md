@@ -22,7 +22,7 @@ I engineer high-integrity applications for the **AI, FinTech, and DevOps** secto
 * **Cloud-Native Infrastructure:** Deployment orchestration with **Docker & Kubernetes**, focusing on CI/CD automation and resilient microservices.
 
 ### 🔗 Connect & Collaborate
-- **Portfolio:** [bentley-portfolio.vercel.app](https://bentley-portfolio.vercel.app/)
+- **Portfolio:** [bentley-portfolio.vercel.app](https://bentley-systems-portfolio.vercel.app/)
 - **LinkedIn:** [bentley-bond-89b39a375](https://www.linkedin.com/in/bentley-bond-89b39a375/)
 - **GitHub:** [github.com/lgg6bentley](https://github.com/lgg6bentley)
 
